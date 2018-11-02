@@ -16,7 +16,7 @@ ADD YOUR FILE NAME HERE (without the .py extension):
 """
 # pylint: disable=undefined-variable
 #
-MODULES = [first, second]
+MODULES = [first, second, brookesong]
 #
 # pylint: enable=undefined-variable
 """
